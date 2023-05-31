@@ -22,7 +22,7 @@
 
 📫 Let's connect and collaborate:
 
-- Email: [bimsaragunasekaragmail.com](mailto:bimsaragunasekaragmail.com)
+- Email: [bimsaragunasekara@gmail.com](mailto:bimsaragunasekara@gmail.com)
 - LinkedIn: Isuru Gunasekara(https://www.linkedin.com/in/isuru-gunasekara-17b714259/)
 
 
