@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**isurubimsara/isurubimsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Isuru 👋
 
-Here are some ideas to get you started:
+👨‍💻 Software Engineer | 🚀 DevOps Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Python | 🌐 JavaScript | 🧪 DevOps | 🌱 Open Source
+
+🌟 Welcome to my GitHub profile! I'm passionate about all things software engineering and DevOps. I love building scalable and efficient solutions, leveraging the power of automation and cloud technologies. Let's connect and collaborate on exciting projects!
+
+## Technology Stack
+
+🔧 Here are some of the technologies I work with:
+
+- 💻 MERN Stack (MongoDB, Express.js, React, Node.js)
+- 🐍 Python | 🌐 JavaScript
+- 🐳 Docker | ☁️ AWS | 📊 Firebase
+- 💬 ChatEngine | ⚙️ DevOps Tools
+
+
+
+## Connect with Me
+
+📫 Let's connect and collaborate:
+
+- Email: [bimsaragunasekaragmail.com](mailto:bimsaragunasekaragmail.com)
+- LinkedIn: Isuru Gunasekara(https://www.linkedin.com/in/isuru-gunasekara-17b714259/)
+
+
+## Open for Opportunities
+
+🔍 I'm actively seeking new opportunities. If you're looking for someone with expertise in my technology stack, feel free to reach out.
+
+## Let's Code Together! 🎉
+
+✨ If you have any exciting projects or ideas, I'm always ready to collaborate. Let's create something amazing!
+
